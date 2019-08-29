@@ -32,6 +32,21 @@ Latest stable version
 cordova plugin add cordova-plugin-geofence
 ```
 
+MyForked  plugin (customed by me an wahba)
+
+```
+cordova plugin add https://github.com/MohamedMardona/cordova-plugin-geofence-custom.git
+```
+# NOTE
+PLease add cordova-plugin-add-swift-support Version 1.6.0 before add it
+
+
+```
+cordova plugin add https://github.com/MohamedMardona/cordova-plugin-add-swift-support-custom.git
+```
+
+
+This plugin uses Google Play Services so you need to have it installed on your device.
 ## Removing the Plugin from project
 
 Using cordova CLI
